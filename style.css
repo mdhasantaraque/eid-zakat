@@ -72,16 +72,18 @@ a{
     padding-left: 30px;
 }
 .help_hand{
-   border: 2px solid grey;
+    width:300px;
+   border: 2px solid rgb(223, 221, 221);
    border-radius: 10px;
-   margin:0px 40px;
-   padding: 30px;
+   margin:0 auto;
+   
 }
 .help_hand img{
-    width: 110%;
-    padding: 0;
-    margin: 0;
-    
+    width: 100%;
+    padding: 0;    
+}
+.zakat-fund{
+    padding: 20px 15px;
 }
 .forth{
     margin: 100px 0;
