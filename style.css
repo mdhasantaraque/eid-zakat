@@ -1,0 +1,98 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    background-image: linear-gradient(to right, black, transparent), 
+    url(eid_zakat/images/front_cover.jpg);
+    background-size: cover;
+}
+.main-page{
+    width: 40%;
+    margin-left: 150px;
+    padding: 150px 0;
+    color: white;   
+}
+h1{
+    font-size: 50px;}
+    
+.main-page p{
+    font-size: 17px;
+    padding: 30px 0;
+}
+.para{
+    color: gray;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    background-color: rgb(226, 41, 41);
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+.second{
+    display: flex;
+    padding: 100px 40px;
+}
+.second div{
+    width: 50%;
+    padding-left:100px;
+}
+.second img{ 
+    width: 80%;
+    border-radius: 5px;
+}
+.page-4{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.third{
+    display: flex;   
+}
+.third div{
+    padding: 80px;
+    width: 200px;
+    background-color: rgba(255, 239, 213, 0.678);
+    margin: 50px 30px;
+    background-image: url("eid_zakat/images/Frame-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-x: 20px;
+}
+.raise_hand{
+    display: flex;
+}
+.raise_hand img{
+    width:30%;
+    padding-left: 30px;
+}
+.help_hand{
+   border: 2px solid grey;
+   border-radius: 10px;
+   margin:0px 40px;
+   padding: 30px;
+}
+.help_hand img{
+    width: 110%;
+    padding: 0;
+    margin: 0;
+    
+}
+.forth{
+    margin: 100px 0;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color:rgb(226, 41, 41);
+    height: 150px;
+    padding: 20px 0;
+}
+footer p{
+    color: white;
+}
